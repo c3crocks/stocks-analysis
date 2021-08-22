@@ -5,7 +5,7 @@ This project started was initiated to analyze the DAQO stocks for XXX' parents.
 However after the initial analysis we analyzed all the stocks since the DAQO stocks did not give promising results.
 Hence stocks from the year 2017 and 2018 are being analyzed in the most optimal manner. 
 
-### Results
+## Results
 
 #### Stocks Analysis
 After analyzing the data for 2017 we found that all stocks except for ticker "TERP" gave us promising results. 
@@ -45,11 +45,13 @@ Given the two codes the major comparison is with the for loops and how its execu
 
 - What are the advantages or disadvantages of refactoring code?
 	- Advantages:
-		- 
+		- The code is easier to read
+		- The code is easy understand and execute
+		- Easier to maintain
+		- Easy to modify if requirements changes 
 	- Disadvantages:
-		- 
+		- We have to spend time to make sure the code works as before
+		- Sometimes errors might take longer to debug
 - How do these pros and cons apply to refactoring the original VBA script?
-	- 
-
-
-![](https://github.com/c3crocks/kickstarter-analysis1/blob/main/Additional_Images/GoalsPie.png)
+	- Pros: It takes less time to execute
+	- Con: Refactoring took a lot of time for me; probably since I am new to VBA
